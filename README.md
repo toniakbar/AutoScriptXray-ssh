@@ -10,13 +10,13 @@
 ♦️ Installation Link
 <pre><code>apt --fix-missing update && apt update && apt upgrade -y && apt install -y bzip2 gzip coreutils screen dpkg wget vim curl nano zip unzip && wget -q -O setup.h  https://raw.githubusercontent.com/arismaramar/AutoScriptXray-ssh/main/setup.sh  && chmod +x setup.sh && screen -S setup ./setup.sh</code></pre>
 
-### SCRIPT HANYA SUPPORT OS
+
 - Debian 9,Debiandst terbary
 - Ubuntu 18.04, dst trbaru
 
-### CARA MENGATASI DROPBEAR OFF/ERORR
+###   DROPBEAR OFF/ERORR
 - Di Bagian Menu Pilih EDIT-BANNER
 - Ubah Banner Jangan Terlalu Panjang  Dropbear Off/Erorr (restart dropbear)
 
-### CARA MENGATASI SCRIPT GAGAL INSTALL ATAU ACCESS DENIED (AKSES DI TOLAK)
+###   SCRIPT GAGAL INSTALL ATAU ACCESS DENIED (AKSES DI TOLAK)
  pastikan   ipv4 aktif dan  ipv6 di matikan (disable) Agar Tidak Terjadi Acces Denied {akses ditolak})
