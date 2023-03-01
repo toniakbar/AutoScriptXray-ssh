@@ -1,3 +1,6 @@
+### free installer.. no register no donasi ..cukup basa binillah dan solawat
+### HUBUNGI KAMI https://t.me/amantubilah (Telgram)
+
 <p align="center">WEBSOCKET / SSH / SSL / XRAY</p>
     
 ♦️ Installation Link
@@ -17,7 +20,6 @@ CARA MENGATASI DROPBEAR OFF/ERORR
 CARA MENGATASI SCRIPT GAGAL INSTALL ATAU ACCESS DENIED (AKSES DI TOLAK)
     (pastikan   ipv4 aktif dan matikan ipv6 Agar Tidak Terjadi Acces Denied {akses ditolak})
 
-    # https://amantubilah
 
 
 
