@@ -20,3 +20,5 @@
 
 ###   SCRIPT GAGAL INSTALL ATAU ACCESS DENIED (AKSES DI TOLAK)
  pastikan   ipv4 aktif dan  ipv6 di matikan (disable) Agar Tidak Terjadi Acces Denied {akses ditolak})
+
+### vmes support custom path 
