@@ -4,7 +4,7 @@
 <p align="center">WEBSOCKET / SSH / SSL / XRAY</p>
     
 ♦️ Installation Link
-<pre><code>apt --fix-missing update && apt update && apt upgrade -y && apt install -y bzip2 gzip socat cmake make curl coreutils screen dpkg wget vim curl nano zip unzip && wget -q -O https://raw.githubusercontent.com/arismaramar/AutoScriptXray-ssh/main/setup.sh && chmod +x setup.sh && screen -S setup ./setup.sh</code></pre>
+<pre><code>apt --fix-missing update && apt update && apt upgrade -y && apt install -y bzip2 gzip socat cmake make curl coreutils screen dpkg wget vim curl nano zip unzip && wget -q -O setup.sh https://raw.githubusercontent.com/arismaramar/AutoScriptXray-ssh/main/setup.sh && chmod +x setup.sh && screen -S setup ./setup.sh</code></pre>
 
 SCRIPT HANYA SUPPORT OS
 sebaik gunakan domian sendiri manual
