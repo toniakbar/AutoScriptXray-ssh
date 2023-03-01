@@ -19,7 +19,7 @@ CARA MENGATASI DROPBEAR OFF/ERORR
 
 CARA MENGATASI SCRIPT GAGAL INSTALL ATAU ACCESS DENIED (AKSES DI TOLAK)
     (pastikan   ipv4 aktif dan matikan ipv6 Agar Tidak Terjadi Acces Denied {akses ditolak})
-
+ vmess support custom path
 
 
 
