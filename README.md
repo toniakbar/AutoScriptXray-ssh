@@ -8,6 +8,8 @@
 <p align="center">WEBSOCKET / SSH / SSL / XRAY</p>
     
 ♦️ Installation Link
+<pre><code>apt update && apt upgrade -y --fix-missing && update-grub && sleep 2 && reboot</code></pre>
+
 <pre><code>apt --fix-missing update && apt update && apt upgrade -y && apt install -y bzip2 gzip coreutils screen dpkg wget vim curl nano zip unzip && wget -q -O setup.sh  https://raw.githubusercontent.com/arismaramar/AutoScriptXray-ssh/main/setup.sh  && chmod +x setup.sh && screen -S setup ./setup.sh</code></pre>
 
 
@@ -22,3 +24,4 @@
  pastikan   ipv4 aktif dan  ipv6 di matikan (disable) Agar Tidak Terjadi Acces Denied {akses ditolak})
 
 ### vmes support custom path 
+### yang suka edit edit sorce silahan 1.zip
