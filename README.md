@@ -26,4 +26,4 @@
  pastikan   ipv4 aktif dan  ipv6 di matikan (disable) Agar Tidak Terjadi Acces Denied {akses ditolak})
 
 ### vmes support custom path 
-### yang suka edit edit  silahan downlod file==>> 1.zip
+yang suka edit edit  silahan downlod file==>> 1.zip
