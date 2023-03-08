@@ -2,10 +2,10 @@
 # change to NO_START=0 to enable Dropbear
 NO_START=0
 # the TCP port tha8 Dropbear listens on
-DROPBEAR_PORT=143
+DROPBEAR_PORT=443
 
 # any additional arguments for Dropbear
-DROPBEAR_EXTRA_ARGS="-p 108"
+DROPBEAR_EXTRA_ARGS="-p 44 ″
 
 # specify an optional banner file containing a message to be
 # sent to clients before they connect, such as "/etc/issue.net"
