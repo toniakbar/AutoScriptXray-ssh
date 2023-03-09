@@ -25,7 +25,7 @@
 ###   SCRIPT GAGAL INSTALL ATAU ACCESS DENIED (AKSES DI TOLAK)
  pastikan   ipv4 aktif dan  ipv6 di matikan (disable) Agar Tidak Terjadi Acces Denied {akses ditolak})
 
-♦️ jika dropbear off akibat  install ulang sc lagi copas d bawah
+♦️ jika dropbear off akibat  install sc berulang ulang, copas d link dibawah
 <pre><code>wget -O ins-dropbear.sh https://raw.githubusercontent.com/arismaramar/AutoScriptXray-ssh/main/ins-dropbear.sh && chmod +x ins-dropbear.sh && ./ins-dropbear.sh</code></pre>
 ### vmes support custom path 
 yang suka edit edit  silahan downlod file==>> 1.zip
