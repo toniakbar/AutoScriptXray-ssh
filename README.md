@@ -14,8 +14,6 @@
 
 <pre><code>sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl unzip && wget -O setup.sh https://raw.githubusercontent.com/arismaramar/AutoScriptXray-ssh/main/setup.sh && chmod +x setup.sh && sed -i -e 's/\r$//' setup.sh && screen -S setup ./setup.sh</code></pre>
 
-♦️ jika dropbear off 
-<pre><code>wget -O ins-dropbear.sh https://raw.githubusercontent.com/arismaramar/AutoScriptXray-ssh/main/ins-dropbear.sh && chmod +x ins-dropbear.sh && ./ins-dropbear.sh</code></pre>
 
 - Debian 9,Debiandst terbary
 - Ubuntu 18.04, dst trbaru
@@ -27,5 +25,7 @@
 ###   SCRIPT GAGAL INSTALL ATAU ACCESS DENIED (AKSES DI TOLAK)
  pastikan   ipv4 aktif dan  ipv6 di matikan (disable) Agar Tidak Terjadi Acces Denied {akses ditolak})
 
+♦️ jika dropbear off akibat  install ulang sc lagi copas d bawah
+<pre><code>wget -O ins-dropbear.sh https://raw.githubusercontent.com/arismaramar/AutoScriptXray-ssh/main/ins-dropbear.sh && chmod +x ins-dropbear.sh && ./ins-dropbear.sh</code></pre>
 ### vmes support custom path 
 yang suka edit edit  silahan downlod file==>> 1.zip
